@@ -1,0 +1,15 @@
+C:\Users\k-tech\source\repos\loop task simple calcouloter\bin\Debug\net7.0\loop task simple calcouloter.exe
+C:\Users\k-tech\source\repos\loop task simple calcouloter\bin\Debug\net7.0\loop task simple calcouloter.deps.json
+C:\Users\k-tech\source\repos\loop task simple calcouloter\bin\Debug\net7.0\loop task simple calcouloter.runtimeconfig.json
+C:\Users\k-tech\source\repos\loop task simple calcouloter\bin\Debug\net7.0\loop task simple calcouloter.dll
+C:\Users\k-tech\source\repos\loop task simple calcouloter\bin\Debug\net7.0\loop task simple calcouloter.pdb
+C:\Users\k-tech\source\repos\loop task simple calcouloter\obj\Debug\net7.0\loop task simple calcouloter.csproj.AssemblyReference.cache
+C:\Users\k-tech\source\repos\loop task simple calcouloter\obj\Debug\net7.0\loop task simple calcouloter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\k-tech\source\repos\loop task simple calcouloter\obj\Debug\net7.0\loop task simple calcouloter.AssemblyInfoInputs.cache
+C:\Users\k-tech\source\repos\loop task simple calcouloter\obj\Debug\net7.0\loop task simple calcouloter.AssemblyInfo.cs
+C:\Users\k-tech\source\repos\loop task simple calcouloter\obj\Debug\net7.0\loop task simple calcouloter.csproj.CoreCompileInputs.cache
+C:\Users\k-tech\source\repos\loop task simple calcouloter\obj\Debug\net7.0\loop task simple calcouloter.dll
+C:\Users\k-tech\source\repos\loop task simple calcouloter\obj\Debug\net7.0\refint\loop task simple calcouloter.dll
+C:\Users\k-tech\source\repos\loop task simple calcouloter\obj\Debug\net7.0\loop task simple calcouloter.pdb
+C:\Users\k-tech\source\repos\loop task simple calcouloter\obj\Debug\net7.0\loop task simple calcouloter.genruntimeconfig.cache
+C:\Users\k-tech\source\repos\loop task simple calcouloter\obj\Debug\net7.0\ref\loop task simple calcouloter.dll
